@@ -1,0 +1,278 @@
+[
+  {
+    "Title": "After",
+    "Director": "Anna Todd",
+    "Runtime": "105 ",
+    "Year": 2019,
+    "Poster": "https://imgs.capitalfm.com/images/267685?crop=16_9&width=660&relax=1&signature=PyAsDy3_35j0yBB1l1X_zqDKSCE=",
+    "festivals": ["Non"],
+    "Actors": [
+      {
+        "first-name": "Josephine",
+        "last-name": "Langford",
+        "nationality": "australian"
+      },
+      {
+        "first-name": "Hero",
+        "last-name": "Beauregard Faulkner Fiennes-Tiffin",
+        "nationality": "English "
+      },
+      {
+        "first-name": "Peter Killian ",
+        "last-name": "Gallagher",
+        "nationality": "American"
+      }
+    ]
+  },
+  
+  {
+    "Title": " Cruella",
+    "Director": " Craig Gillespie",
+    "Runtime": "134 ",
+    "Year":	2021 ,
+    "Poster": "https://alternativemovieposters.com/wp-content/uploads/2021/02/DanielleDelPlato_Cruella.jpg",
+    "festivals": ["Film Festival (FLIFF)"],
+    "Actors": [
+      {
+        "first-name": "Emily ",
+        "last-name": "Jean Stone",
+        "nationality": "Scottsdale"
+      },
+      {
+        "first-name": "Emma",
+        "last-name": "Emma Thompson",
+        "nationality": "English "
+      },
+      {
+        "first-name": "Joel ",
+        "last-name": "Joel Fry",
+        "nationality": "English "
+      }
+    ]
+  },
+
+  {
+    "Title": "Midnight Family",
+    "Director": "Luke Lorentzen",
+    "Runtime": "81 ",
+    "Year": 2019,
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGYyZTk5MjYtNGY2ZS00NzRhLTgwMWMtZjhmMmQ4OGFkNTNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "festivals": [
+      "Sundance Film Festival",
+      "Cartagena International Film Festival",
+      "IDFA"
+    ],
+    "Actors": [
+      {
+        "first-name": "Fer",
+        "last-name": "Ochoa",
+        "nationality": "Mexican"
+      },
+      {
+        "first-name": "Josue",
+        "last-name": "Ochoa",
+        "nationality": "Mexican"
+      },
+      {
+        "first-name": "Juan",
+        "last-name": "Ochoa",
+        "nationality": "Mexican"
+      }
+    ]
+  },
+
+
+  {
+    "Title": "Me Before You",
+    "Director": "Thea Sharrock",
+    "Runtime": "110 ",
+    "Year": 2016,
+    "Poster": "https://cdn.shopify.com/s/files/1/0458/6386/2439/products/81fTRhi9E_L_1024x1024.jpg?v=1631701416",
+    "festivals": [" Festival de Toronto "],
+    "Actors": [
+      {
+        "first-name": "Emilia",
+        "last-name": "Isobel Euphemia Rose Clarke",
+        "nationality": "English "
+      },
+      {
+        "first-name": "Samuel",
+        "last-name": "George Claflin",
+        "nationality": "English"
+      },
+      {
+        "first-name": "Janet ",
+        "last-name": "McTeer",
+        "nationality": "English "
+      }
+    ]
+  },
+
+  
+
+
+  {
+    "Title": "Luck",
+    "Director": "Peggy Holmes",
+    "Runtime": "105 ",
+    "Year": 2022,
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlNTAyY2YtNWUyYi00YmE3LWE2OTctZDI2MmJkNmZiMmY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "festivals": [" Hollywood Music in Media Awards "],
+    "Actors": [
+      {
+        "first-name": "Eva ",
+        "last-name": "Maria Noblezada",
+        "nationality": "American"
+      },
+      {
+        "first-name": "Simon John ",
+        "last-name": "Beckingham",
+        "nationality": "English "
+      },
+      {
+        "first-name": "Jane ",
+        "last-name": "Seymour Fonda",
+        "nationality": "English"
+      }
+    ]
+  },
+
+
+  {
+    "Title": "All the Bright Places",
+    "Director": " Brett Haley",
+    "Runtime": "108",
+    "Year": 2020,
+    "Poster": "https://i5.walmartimages.com/asr/284fd93a-aeea-4305-a275-8822f5965291.cdf9ab14852827fc7d3c28079c79b1bb.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "festivals": ["Non"],
+    "Actors": [
+      {
+        "first-name": "Mary ",
+        "last-name": "Elle Fanning",
+        "nationality": "American"
+      },
+      {
+        "first-name": "Justice Elio ",
+        "last-name": "Smith",
+        "nationality": "American"
+      },
+      {
+        "first-name": "Kelli Christine  ",
+        "last-name": "O'Hara",
+        "nationality": "American"
+      }
+    ]
+  },
+
+
+
+  {
+    "Title": "The Kissing Booth",
+    "Director": "Vince Marcello",
+    "Runtime": "105",
+    "Year": 2018,
+    "Poster": "https://imgsrc.cineserie.com/2018/05/1686971.jpg?ver=1",
+    "festivals": [" Film Festival (FLIFF) "],
+    "Actors": [
+      {
+        "first-name": "Joey Lynn",
+        "last-name": " King",
+        "nationality": "American"
+      },
+      {
+        "first-name": "Jacob ",
+        "last-name": "Elordi",
+        "nationality": "australian"
+      },
+      {
+        "first-name": "Joel ",
+        "last-name": "Courtney ",
+        "nationality": "American"
+      }
+    ]
+  },
+
+
+
+  {
+    "Title": "Purple Hearts",
+    "Director": "Elizabeth Allen Rosenbaum",
+    "Runtime": "122 ",
+    "Year": 2022,
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGFkNTBmN2UtMzQ2OC00ODA1LTk5N2UtNzU1YjY1ZWEzOWE3XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+    "festivals": [" Zurich Film Festival "],
+    "Actors": [
+      {
+        "first-name": "Sofía",
+        "last-name": "Daccarett ",
+        "nationality": "American"
+      },
+      {
+        "first-name": "Nicholas ",
+        "last-name": "Galitzine",
+        "nationality": "English "
+      },
+      {
+        "first-name": "Clarence Linden  ",
+        "last-name": " Garnett Ashby III",
+        "nationality": "English "
+      }
+    ]
+  },
+
+
+
+
+  {
+    "Title": "Through My Window",
+    "Director": "Marçal Forés",
+    "Runtime": "116 ",
+    "Year": 2022,
+    "Poster": "https://assets.mycast.io/posters/through-my-window-fan-casting-poster-192514-large.jpg?1651604312",
+    "festivals": [" Festival de Toronto "],
+    "Actors": [
+      {
+        "first-name": "Clara ",
+        "last-name": "Galle",
+        "nationality": "spanish"
+      },
+      {
+        "first-name": "Julio",
+        "last-name": " Peña",
+        "nationality": "spanish"
+      },
+      {
+        "first-name": " Abel ",
+        "last-name": "Folk",
+        "nationality": "spanish"
+      }
+    ]
+  },
+
+
+  {
+    "Title": "Me Time",
+    "Director": "John Hamburg",
+    "Runtime": "101 min",
+    "Year": 2022,
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNiMzc5ZmItMWQyNi00ZDAyLWIzZDAtNzBjNTc3ZDU3ZjNkXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg",
+    "festivals": [" Sundance Film Festival "],
+    "Actors": [
+      {
+        "first-name": "Kevin Darnell Hart",
+        "last-name": "Hart",
+        "nationality": "African-American"
+      },
+      {
+        "first-name": "Mark Robert Michael",
+        "last-name": "Wahlberg",
+        "nationality": "American"
+      },
+      {
+        "first-name": "Regina Lee  ",
+        "last-name": "Hall",
+        "nationality": "American"
+      }
+    ]
+  }
+ ]

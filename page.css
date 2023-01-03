@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    font-family: 'ELectrolize',sans-serif;
+    font-size: small;
+    margin: 0;
+    padding: 0;
+}
+table{
+background-color:  rgba(73, 117, 154, 0.3);
+}
+.bg-img {
+    background-image:url(/headerimg/backhed.jpg);
+    min-height: 632px;
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+
+
+.input-group-lg {
+    padding-right: 80.5rem;
+}
+nav {
+    padding: 0 ;
+  margin: 0;
+ 
+}
+
